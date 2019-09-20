@@ -1,2 +1,2 @@
 # DevopsFunda
-Devops to learn from gi
+Devops to learn from git
